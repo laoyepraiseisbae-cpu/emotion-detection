@@ -1,7 +1,0 @@
-Flask
-tensorflow
-numpy
-Pillow
-werkzeug
-gunicorn
-opencv-python
